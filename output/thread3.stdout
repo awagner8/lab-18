@@ -1,0 +1,14 @@
+main: before 499500
+pid 1422221 tid 1422222
+args: id 0 start 0 end 250
+1422222 done
+pid 1422221 tid 1422224
+args: id 2 start 500 end 750
+1422224 done
+pid 1422221 tid 1422225
+args: id 3 start 750 end 1000
+1422225 done
+pid 1422221 tid 1422223
+args: id 1 start 250 end 500
+1422223 done
+main: result 999000
